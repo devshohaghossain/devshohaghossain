@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shohag Hossain</h1>
+<img src="https://i.ibb.co.com/hRMTN9TK/01-Professional-Web-Designer-Portfolio-Banner-1.jpg" alt=" Web Designer Portfolio Banner (1)" border="0">
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devshohaghossain&label=Profile%20views&color=0e75b6&style=flat" alt="devshohaghossain" /> </p>
